@@ -92,3 +92,23 @@ Here gender is my 'x axis' and City is my 'y axis'. I have also named the title 
 The objective was to understand ages spread of last 20 runner across different cities
 You can create scatter plot using 'plt.scatter'. To create this, assign variable name to X axis and y axis. 
 Here City is my 'x axis' and Age is my 'y axis'. I have also named the title using 'plt.title'.
+
+
+ _ **TOOL**  _    
+ 
+1. Python (Version: 3.11)   
+2. Git (Version: 2.23.0)
+
+
+ _ **CONTRIBUTER**_  
+  
+Sathi Adak
+
+
+ _  **ACKNOWLEDGMENTS**  _     
+
+I would like to thank who helped me to accomplish this project.       
+_Will:_ an instructor of the course, who provided his valuable guidance, mentorship, and expertise throughout the project.           
+_Cantek IT Program:_ Cantek IT Program, an educational institution, played a significant role in supporting the project. They provided resources, facilities, and a conducive learning environment for the team to work on the project.        
+
+
