@@ -46,6 +46,7 @@ To connect the url, you have to paste the link and follow the given steps from g
 
 
   _Check the title of the page_
+
 Use title = Soup.title to see the Title of the page
 
 
