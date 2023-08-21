@@ -25,4 +25,29 @@ To analyse '5k run' event data using web scrapping.
 10. Bar Graph
 11. Scatter plot
 
+
+
 _**Import libraries**_
+
+We have imported 8 libraries. The following are the libraries:
+a. import pandas as pd
+b. import numpy as np
+c. import matplotlib.pyplot as plt
+d. from urllib.request import urlopen
+e. import requests
+f. from bs4 import BeautifulSoup
+g. import nltk.data
+h. from requests_html import HTMLSession
+
+
+   _**Connect the page using url**_
+
+To connect the url, you have to paste the link and follow the given steps from given assignment4_WebScraping.
+
+
+  _Check the title of the page_
+Use title = Soup.title to see the Title of the page
+
+
+ _Check the web links given on the page_
+  
