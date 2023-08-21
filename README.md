@@ -24,6 +24,8 @@ To analyse '5k run' event data using web scrapping.
 9. Tail of the dataframe
 10. Bar Graph
 11. Scatter plot
+12. Codes
+13. Tool
 
 
 
@@ -99,18 +101,18 @@ Here City is my 'x axis' and Age is my 'y axis'. I have also named the title usi
 To know the detailed steps check the tab 'assignment4_WebScraping' 
  
 
-  _**TOOL**_   
+  _**Tool**_   
  
 1. Python (Version: 3.11)   
 2. Git (Version: 2.23.0)
 
 
- _**CONTRIBUTER**_  
+ _**Contributer**_  
   
 Sathi Adak
 
 
-  _**ACKNOWLEDGMENTS**_
+  _**Acknowledgements**_ 
 
 I would like to thank who helped me to accomplish this project.       
 _Will:_ an instructor of the course, who provided his valuable guidance, mentorship, and expertise throughout the project.           
