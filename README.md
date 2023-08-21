@@ -19,7 +19,7 @@ To analyse '5k run' event data using web scrapping.
 4. Check the web links given on the page
 5. Check the Header of the table row
 6. Check all rows of table
-7. Add column nameS and check the dataframe
+7. Add column names and check the dataframe
 8. shape of the dataframe
 9. Tail of the dataframe
 10. Bar Graph
@@ -42,13 +42,53 @@ h. from requests_html import HTMLSession
 
    _**Connect the page using url**_
 
-To connect the url, you have to paste the link and follow the given steps from given assignment4_WebScraping.
+To connect the url, you have to paste the link and follow the given steps from on assignment4_WebScraping.
 
 
-  _Check the title of the page_
+  **_Check the title of the page_**
 
 Use title = Soup.title to see the Title of the page
 
 
- _Check the web links given on the page_
+ **_Check the web links given on the page_**
   
+Create the for loop to get href and follow the given steps from on assignment4_WebScraping.
+
+
+ _**Check the Header of the table row**_
+
+ By using allrows, you can select rows based on the scripted HTML
+
+ 
+ _**Check all rows of table**_
+
+Create Forloop for rows and cells using table row(tr) and data cell(td)
+
+
+ _**Add column nameS and check the dataframe**_
+
+Here column name was not alligned, so, I decided to add column name again using Cols function.
+
+
+ _**shape of the dataframe**_
+
+It is used to check number of rows and columns of extracted dataframe
+
+
+ _**Tail of the dataframe**_
+
+Further, I have considered last 20 data from the dataframe to visualize. We can do it same for head of the dataframe too.
+
+
+ _**Bar Graph**_
+
+The objective was to understand how Gender of last 20 runner has performed in different Cities
+You have to assign variable name to X axis and y axis for Bar Graph using 'plt.bar'. 
+Here gender is my 'x axis' and City is my 'y axis'. I have also named the title using 'plt.title'.
+
+ 
+ _**Scatter plot**_
+
+The objective was to understand ages spread of last 20 runner across different cities
+You can create scatter plot using 'plt.scatter'. To create this, assign variable name to X axis and y axis. 
+Here City is my 'x axis' and Age is my 'y axis'. I have also named the title using 'plt.title'.
