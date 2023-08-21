@@ -93,9 +93,10 @@ The objective was to understand ages spread of last 20 runner across different c
 You can create scatter plot using 'plt.scatter'. To create this, assign variable name to X axis and y axis. 
 Here City is my 'x axis' and Age is my 'y axis'. I have also named the title using 'plt.title'.
 
+
  _**Codes**_
 
-To know the detailed steps check the tab 'assignment4_WebScraping'
+To know the detailed steps check the tab 'assignment4_WebScraping' 
  
 
   _**TOOL**_   
